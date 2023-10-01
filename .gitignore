@@ -1,0 +1,11 @@
+# Environments
+.env
+
+# OS generated files 
+.DS_Store
+
+# Logs
+*.log
+
+#Pycache
+**/__pycache__
